@@ -1,0 +1,33 @@
+Top Selling Products:
+Item
+Item_2_BEV      676.0
+Item_16_MILK    627.0
+Item_25_FUR     616.0
+Item_19_MILK    589.0
+Item_5_FUR      581.0
+Item_13_FOOD    581.0
+Item_1_MILK     578.0
+Item_11_MILK    574.0
+Item_11_FUR     573.0
+Item_14_FOOD    566.0
+Name: Quantity, dtype: float64
+
+Top 5 Stores by Revenue:
+Location
+Online      828481.637040
+In-store    801899.519505
+Name: Total Spent, dtype: float64
+
+Latest Sales Trends (Last 10 Days):
+Date
+2025-01-09    1354.652577
+2025-01-10    1396.152577
+2025-01-11    1277.000000
+2025-01-12    1586.000000
+2025-01-13     968.152577
+2025-01-14    1304.000000
+2025-01-15    1063.652577
+2025-01-16    1579.152577
+2025-01-17    1476.652577
+2025-01-18    1160.652577
+Name: Total Spent, dtype: float64
